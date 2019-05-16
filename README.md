@@ -1,7 +1,7 @@
 # UberLoaderHud
 
 
-[![Watch the video](demo.png)](https://youtu.be/vt5fpE0bzSY)
+[![Watch the video](demo.png)](https://youtu.be/pn2IipJe8CQ)
 
 UberLoaderHud is simple implementation of Uber Style loading indicator. 
 
