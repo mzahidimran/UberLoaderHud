@@ -32,3 +32,5 @@ Change line height
 Install Using pods
 
 `pod 'UberLoaderHud'`
+
+Version 1.0
