@@ -1,13 +1,7 @@
 # UberLoaderHud
 
 
-<iframe width="560" height="315"
-src="https://www.youtube.com/embed/Pai5uLpTQKU" 
-frameborder="0" 
-allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe>
-
-
+[![Watch the video](demo.png)](https://youtu.be/vt5fpE0bzSY)
 
 UberLoaderHud is simple implementation of Uber Style loading indicator. 
 
