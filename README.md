@@ -1,4 +1,4 @@
-# UberLoaderHud
+# UberLoaderHud (Swift Package Manager + Cocoapods)
 
 
 [![Watch the video](demo.png)](https://youtu.be/pn2IipJe8CQ)
@@ -34,5 +34,7 @@ Install Using pods
 `pod 'UberLoaderHud'`
 
 Install Using Swift Package Manager
+
+https://developer.apple.com/documentation/xcode/adding_package_dependencies_to_your_app
 
 Version 2.0
