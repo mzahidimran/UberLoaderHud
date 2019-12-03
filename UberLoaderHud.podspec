@@ -11,8 +11,7 @@ s.license      = "MIT"
 s.author       = { "Zahid" => "m_zahidimran@yahoo.com" }
 #s.source       = { :path => "." }
 s.source       = { :git => "https://github.com/mzahidimran/UberLoaderHud.git", :tag => "#{s.version}" }
-s.source_files  = "Source/**/*.*"
-s.exclude_files = "Source/**/*.plist"
+s.source_files  = "UberLoader/Sources/UberLoader/Sources/**/*.*"
 s.ios.deployment_target  = '10.0'
 s.swift_version = '4.2'
 
